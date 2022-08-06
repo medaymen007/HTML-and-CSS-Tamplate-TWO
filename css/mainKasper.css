@@ -128,8 +128,10 @@
                 cursor: pointer;
             }
             
-            header .search input {
+             header .search input {
                 display: none;
+                padding: 5px;
+                height: 21px;
             }
             
             header .container img {
@@ -232,13 +234,17 @@
                 header .container::after {
                     width: 93%;
                 }
-                         header .search {
+                header .search {
                     width: 129px;
                 }
                 header .search input {
                     padding:5px;
                     width: 81px;
                     margin-left: -46px;
+                }
+                header .special {
+                    margin-left: 10px;
+                    margin-top: 5px;
                 }
             }
             /*star code of lading*/
