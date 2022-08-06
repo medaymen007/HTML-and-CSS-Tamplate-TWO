@@ -232,6 +232,13 @@
                 header .container::after {
                     width: 93%;
                 }
+                         header .search {
+                    width: 129px;
+                }
+                header .search input {
+                    width: 81px;
+                    margin-left: -46px;
+                }
             }
             /*star code of lading*/
             
